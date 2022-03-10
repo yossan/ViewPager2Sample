@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager2Sample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_page_before">Add page before</string>
+    <string name="add_page_after">Add page after</string>
+    <string name="delete_current_page">Delete</string>
+</resources>

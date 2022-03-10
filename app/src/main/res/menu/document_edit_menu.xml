@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_befor"
+        android:title="@string/add_page_before" />
+    <item
+        android:id="@+id/add_after"
+        android:title="@string/add_page_after" />
+    <item
+        android:id="@+id/delete_page"
+        android:title="@string/delete_current_page" />
+</menu>
